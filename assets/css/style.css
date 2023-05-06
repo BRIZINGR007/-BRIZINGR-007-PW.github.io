@@ -817,7 +817,7 @@ display: none;
 .blog-card:hover .blog-card-description {
 opacity: 1;
 transition-delay: 0.1s;
-transform: translateY(-40px);
+transform: translateY(-20px);
 }
 
 .blog-card-footer {
