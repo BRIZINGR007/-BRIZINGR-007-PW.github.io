@@ -803,7 +803,7 @@ display: none;
   top:auto;
   left: 20px;
   right: 20px;
-  bottom: 60px;
+  bottom: 15px;
   margin: 0;
   padding: 0;
   color: #666c74;
@@ -817,7 +817,7 @@ display: none;
 .blog-card:hover .blog-card-description {
 opacity: 1;
 transition-delay: 0.1s;
-transform: translateY(-20px);
+transform: translateY(-40px);
 }
 
 .blog-card-footer {
